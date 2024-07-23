@@ -1,0 +1,105 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "poster": "https://example.com/inception.jpg",
+        "runtime": "148 min",
+        "showtime": "20:00",
+        "capacity": 100,
+        "tickets_sold": 20,
+        "description": "A skilled thief is offered a chance to have his criminal history erased if he can successfully perform an inception."
+      },
+      {
+        "id": 2,
+        "title": "The Matrix",
+        "poster": "https://example.com/matrix.jpg",
+        "runtime": "136 min",
+        "showtime": "22:00",
+        "capacity": 120,
+        "tickets_sold": 45,
+        "description": "A computer hacker learns about the true nature of reality and his role in the war against its controllers."
+      },
+      {
+        "id": 3,
+        "title": "Interstellar",
+        "poster": "https://example.com/interstellar.jpg",
+        "runtime": "169 min",
+        "showtime": "19:00",
+        "capacity": 80,
+        "tickets_sold": 10,
+        "description": "A group of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+      },
+      {
+        "id": 4,
+        "title": "The Shawshank Redemption",
+        "poster": "https://example.com/shawshank.jpg",
+        "runtime": "142 min",
+        "showtime": "18:00",
+        "capacity": 150,
+        "tickets_sold": 30,
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+      },
+      {
+        "id": 5,
+        "title": "The Godfather",
+        "poster": "https://example.com/godfather.jpg",
+        "runtime": "175 min",
+        "showtime": "21:00",
+        "capacity": 90,
+        "tickets_sold": 50,
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+      },
+      {
+        "id": 6,
+        "title": "Pulp Fiction",
+        "poster": "https://example.com/pulpfiction.jpg",
+        "runtime": "154 min",
+        "showtime": "23:00",
+        "capacity": 110,
+        "tickets_sold": 70,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+      },
+      {
+        "id": 7,
+        "title": "Fight Club",
+        "poster": "https://example.com/fightclub.jpg",
+        "runtime": "139 min",
+        "showtime": "20:30",
+        "capacity": 100,
+        "tickets_sold": 40,
+        "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much, much more."
+      },
+      {
+        "id": 8,
+        "title": "The Dark Knight",
+        "poster": "https://example.com/darkknight.jpg",
+        "runtime": "152 min",
+        "showtime": "21:30",
+        "capacity": 130,
+        "tickets_sold": 60,
+        "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham."
+      },
+      {
+        "id": 9,
+        "title": "Forrest Gump",
+        "poster": "https://example.com/forrestgump.jpg",
+        "runtime": "142 min",
+        "showtime": "17:00",
+        "capacity": 140,
+        "tickets_sold": 25,
+        "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, the rise of the personal computer era, and other historical events unfold from the perspective of an Alabama man with an IQ of 75."
+      },
+      {
+        "id": 10,
+        "title": "The Avengers",
+        "poster": "https://example.com/avengers.jpg",
+        "runtime": "143 min",
+        "showtime": "18:30",
+        "capacity": 125,
+        "tickets_sold": 55,
+        "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity."
+      }
+    ]
+  }
+  
